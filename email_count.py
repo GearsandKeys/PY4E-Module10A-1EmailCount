@@ -1,4 +1,4 @@
-def from_counter() -> None:
+def print_most_emails() -> None:
     file_name = input("Enter a file name: ")
 
-from_counter()
+print_most_emails()
