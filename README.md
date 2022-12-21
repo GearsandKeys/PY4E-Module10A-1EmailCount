@@ -19,7 +19,7 @@ cwen@iupui.edu 5
 
 ## Starter Code
 ```
-Enter a file name: mbox-long.txt
+file_name = input("Enter a file name: ")
 ```
 
 ## Test
